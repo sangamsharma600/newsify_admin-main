@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "832836160027",
+    "firebase_url": "https://newsify-4302f-default-rtdb.firebaseio.com",
+    "project_id": "newsify-4302f",
+    "storage_bucket": "newsify-4302f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832836160027:android:ebabcbb2f24da90893c6be",
+        "android_client_info": {
+          "package_name": "com.tripleit.newsify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832836160027-18ph06aatmpov2rafjadbiccdcr2o9bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-V1tE_cH22M2OrpPRbaBmM3D62x_mpGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832836160027-18ph06aatmpov2rafjadbiccdcr2o9bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832836160027:android:0f6dc59ba46cd49793c6be",
+        "android_client_info": {
+          "package_name": "com.tripleit.newsify_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832836160027-18ph06aatmpov2rafjadbiccdcr2o9bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-V1tE_cH22M2OrpPRbaBmM3D62x_mpGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832836160027-18ph06aatmpov2rafjadbiccdcr2o9bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
